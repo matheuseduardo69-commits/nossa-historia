@@ -44,7 +44,7 @@ header h1{
 
 .conteiner img{
     width: 100%;
-    max-width: 280px;
+    max-width: 350px;
     height: auto;
     border-radius: 14px;
     margin: 0 auto 15px;
@@ -105,4 +105,5 @@ footer{
     header h1{
         font-size: 2em;
     }
+
 }
